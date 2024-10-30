@@ -70,6 +70,7 @@
     <Content Include="Assets.aspx" />
     <Content Include="Compleated.aspx" />
     <Content Include="Login.aspx" />
+    <Content Include="LoginStyle.css" />
     <Content Include="Tasks.aspx" />
     <Content Include="Web.config" />
     <Content Include="HomePage.aspx" />
